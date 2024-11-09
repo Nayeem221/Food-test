@@ -1,0 +1,6 @@
+.parent h4{
+    @apply font-Roboto  text-[16px] text-[#F7F8F9]
+}
+.parent p{
+    @apply font-Roboto  text-[16px] text-[#F7F8F9]
+}

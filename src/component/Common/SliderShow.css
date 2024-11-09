@@ -1,0 +1,10 @@
+.slick-arrow{
+  @apply w-[50px] text-[20px] hover:text-[#BD1F17] z-[111]
+}
+
+.slick-arrow{
+  @apply absolute left-[1150px] bottom-[320px] 
+}
+.slick-next{
+  @apply absolute left-[1100px] bottom-[320px]
+}

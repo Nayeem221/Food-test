@@ -1,0 +1,12 @@
+.formpart p{
+    @apply font-Roboto text-[14px] lg:text-[16px] text-[#F7F8F9] w-[545px] mb-[45px] lg:w-[545px] w-[330px]
+}
+.formpart input{
+    @apply w-[302px] lg:mb-0 mb-[16px] h-[46px] py-[12px] pl-[16px] font-Roboto text-[14px] text-white outline-none border-2 border-white focus:outline-none bg-transparent 
+}
+.formpart textarea{
+    @apply w-[302px] lg:w-[649px] h-[140px] mt-[30px] bg-transparent pt-[12px] pl-[16px] text-white border-2 border-white mb-[32px]
+}
+.formpart{
+    @apply px-[30px] py-[30px] px-0 py-0 pl-[50px]   pt-[50px] lg:pt-[160px] pb-[50px]
+}

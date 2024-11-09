@@ -1,0 +1,16 @@
+.review{
+    @apply pt-[120px] pb-[120px]
+}
+.text h2{
+    @apply font-bebas font-bold text-[62px] text-[#181818] mt-[16px]
+}
+.review .slick-arrow{
+    @apply w-[50px] text-[20px] hover:text-[#BD1F17] z-[111]
+  }
+  
+ .review .slick-arrow{
+    @apply absolute left-[1150px] bottom-[320px] 
+  }
+  .review .slick-next{
+    @apply absolute left-[1100px] bottom-[320px]
+  }

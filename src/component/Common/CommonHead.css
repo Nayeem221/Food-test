@@ -1,0 +1,6 @@
+.commonhead h3{
+    @apply font-Roboto font-bold text-[14px] lg:text-[20px] text-[#BD1F17]
+}
+.commonhead{
+    @apply flex gap-[5px] lg:gap-[10px] items-center
+}
