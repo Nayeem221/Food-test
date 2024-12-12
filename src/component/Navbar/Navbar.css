@@ -8,5 +8,5 @@
     @apply flex  gap-[60px] items-center
 }
 .logo ul{
-    @apply lg:flex gap-[40px] items-center absolute lg:static lg:left-0 lg:top-0 left-[50%] top-full text-center lg:bg-transparent bg-slate-700 z-[1111]     lg:items-center
+    @apply  gap-[40px]   items-center absolute lg:static lg:left-0 lg:top-0 left-[50%] top-full text-center lg:bg-transparent bg-slate-700 z-[1111]     lg:items-center
 }
